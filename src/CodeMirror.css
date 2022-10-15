@@ -4,23 +4,23 @@
 
 /* Sync style with chrome dev-tool */
 .cm-keyword {
-  color: hsl(310, 86%, 36%);
+  color: hsl(0, 0%, 0%);
 }
 .cm-number {
-  color: hsl(248, 100%, 41%);
+  color: hsl(0, 0%, 0%);
 }
 .cm-comment {
-  color: hsl(120, 100%, 23%) !important;
+  color: hsl(0, 0%, 0%) !important;
   font-style: italic;
 }
 .cm-string {
-  color: hsl(1, 80%, 43%) !important;
+  color: hsl(0, 0%, 0%) !important;
 }
 .cm-string-2 {
-  color: hsl(1, 99%, 39%) !important;
+  color: hsl(0, 0%, 0%) !important;
 }
 .cm-atom {
-  color: hsl(310, 86%, 36%);
+  color: hsl(0, 0%, 0%);
 }
 .cm-def {
   color: hsl(240, 73%, 38%);
